@@ -7,6 +7,7 @@
 		}
 	],
 	"require": {
+		"smichaelsen/salad-bowl": "^3.0.0",
 		"php": "7.0 - 7.1"
 	},
 	"autoload": {
