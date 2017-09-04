@@ -15,5 +15,10 @@
 		"psr-4": {
 			"Smichaelsen\\SaladBowlUsers\\": "./Classes/"
 		}
+	},
+	"extra": {
+		"salad-bowl-plugin-classes": [
+			"Smichaelsen\\SaladBowlUsers\\Routes"
+		]
 	}
 }
