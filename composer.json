@@ -17,7 +17,7 @@
 		}
 	},
 	"extra": {
-		"salad-bowl-plugin-classes": [
+		"salad-bowl-plugin-class": [
 			"Smichaelsen\\SaladBowlUsers\\Routes"
 		]
 	}
