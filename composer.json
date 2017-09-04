@@ -1,5 +1,6 @@
 {
 	"name": "smichaelsen/salad-bowl-users",
+	"type": "salad-bowl-plugin",
 	"authors": [
 		{
 			"name": "Sebastian Michaelsen",
