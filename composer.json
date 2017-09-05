@@ -13,7 +13,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Smichaelsen\\SaladBowlUsers\\": "./Classes/"
+			"Smichaelsen\\SaladBowlUsers\\": "./src/"
 		}
 	},
 	"extra": {

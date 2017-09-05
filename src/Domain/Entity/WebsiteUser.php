@@ -1,6 +1,6 @@
 <?php
 
-namespace Smichaelsen\SaladBowlUsers\Entity;
+namespace Smichaelsen\SaladBowlUsers\Domain\Entity;
 
 abstract class WebsiteUser
 {

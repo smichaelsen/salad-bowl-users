@@ -1,5 +1,5 @@
 <?php
-namespace Smichaelsen\SaladBowlUsers;
+namespace Smichaelsen\SaladBowlUsers\Slot;
 
 use Aura\Router\Map;
 use Smichaelsen\SaladBowl\RoutesClassInterface;
